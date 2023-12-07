@@ -1,0 +1,34 @@
+body {
+background-color: #caedec;
+text-align: center;
+}
+
+.container {
+margin-top: 20vh;
+}
+
+.title {
+font-size:  50px;
+}
+
+.decrease-button {
+    border: solid 2px red;
+    color: red;
+    background-color: white ;
+}
+
+.reset-button {
+border: solid 2px grey;
+color: grey;
+background-color: white
+}
+
+.increase-button {
+border: solid 2px green;
+color: green;
+background-color: white;
+}
+
+p {
+font-size: 50px;
+ }
